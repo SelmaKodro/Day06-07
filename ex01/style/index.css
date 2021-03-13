@@ -1,0 +1,26 @@
+.gallery{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.gallery-item{
+    width: 300px;
+ display: inline-block;
+ margin: 10px;
+}
+.image{
+    width: 100%;
+}
+.gallery-title{
+    color: aquamarine;
+    margin-top: 10px;
+    margin-bottom: 12px;
+}
+.gallery-text{
+    font-size: 12px;
+    text-align: justify;
+}
+.title{
+    text-align: center;
+    color: red;
+}
+
